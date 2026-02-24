@@ -1,3 +1,4 @@
 sistem yang dapat mendukung operasional sehari-hari di Laundry
 Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del. buat program java
 bagaimana code tersebut seperti apa implementasi nya?\
+DEL
