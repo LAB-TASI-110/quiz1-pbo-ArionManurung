@@ -1,0 +1,7 @@
+bantu saya memahami soal
+java ini adalah list harga dan kode menu
+ini kupon nya setiap kelipatan seratus ribu belanja|
+ini adalah berat saya tidak mengerti untuk apa itu dibuat pada soal
+buatkan saya code java dari soal yang akan menghasilkan output yang benar seperti ini
+bagaimana cara run code nya
+public class Driver1 { } kami sudah diberi code ini sebelum mengerjakan coba sesuaikan
